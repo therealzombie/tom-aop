@@ -10,7 +10,7 @@ Automating the process of the Thrive on Mars Operator Program (https://play.thri
 - Edit wallets.csv, add wallets with privatekey (old format & active permissions) with the following format line by line:
     - `user1.wam,5KNuCsjRHF6h3tsmTRJ5a44ShmuDyrGdLHH7qgGJ6hQdsQ7iSZB`
 - Download & Install Node.js (https://nodejs.org/en/download/current)
-- Open CMD, navigate to the folder which contains operator.js (i.e. `cd "C:/Users/zombie/Downloads/tom-operator/"`)
+- Open CMD, navigate to the folder which contains operator.js (i.e. `cd "C:/Users/zombie/Downloads/tom-aop/"`)
 - execute `npm install eosjs` (only when running first time)
 - execute `nodejs operator.js`
 
