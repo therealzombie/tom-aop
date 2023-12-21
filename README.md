@@ -2,7 +2,8 @@
 
 Automating the process of the Thrive on Mars Operator Program (https://play.thriveonmars.com/operator)
 
-![image](https://github.com/therealzombie/tom-operator/assets/108992674/b1bae637-6ef8-4ca3-9ce5-6c2024e87b88)
+![image](https://github.com/therealzombie/tom-aop/assets/108992674/b1c43466-f376-4534-a931-86909b6c9863)
+
 
 ## How To
 - Download this repository
