@@ -1,0 +1,14 @@
+{
+  "name": "tom-operator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^22.1.0"
+  }
+}
